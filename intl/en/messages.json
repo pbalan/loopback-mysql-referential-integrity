@@ -1,0 +1,6 @@
+{
+  "033d31e7bd62a420f23e4b154945a2b8": "This library currently supports only MySQL database.",
+  "0a11bfdd7655e825fbd1f998b2e24db9": "Model name must be provided.",
+  "1ec12f42dab8979b9fc90a95a023419e": "Property name must be provided.",
+  "704e7bf9910b8532f7c4889366fdcbac": "ReferenceModel name must be provided."
+}

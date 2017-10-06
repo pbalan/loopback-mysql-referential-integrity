@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Jetbrains webstorm config dir
+.idea/
+
+# Mac OSX .DS_STORE file
+**/*.DS_STORE
